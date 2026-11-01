@@ -1,0 +1,13 @@
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# IntelliJ files
+.idea/
+
+# Build directories
+target/
+out/
+build/
